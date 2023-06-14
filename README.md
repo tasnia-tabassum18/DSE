@@ -5,11 +5,11 @@ Installations: <br>
 pip install pandas
 pip install python
 
-For API:
+For API: <br>
 pip install djangorestframework
 
-For Database:
+For Database: <br>
 Install PostgreSQL
 
-For visualization:
+For visualization:<br>
 Install PowerBI Desktop
