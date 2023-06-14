@@ -15,3 +15,6 @@ Some of the data such as company details and other information was collected by 
 
 <strong>For visualization:</strong><br>
 ```Install PowerBI Desktop```
+
+<h1>Web Scraping</h1>
+<h3> Why is web scraping needed? </h3>
