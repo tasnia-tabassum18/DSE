@@ -19,9 +19,9 @@ Some of the data such as company details and other information was collected by 
 <h1>Web Scraping</h1>
 <h3> Why is web scraping needed? </h3><br>
 
-1. Data gathering and analysis: Web scraping enables you to swiftly acquire enormous amounts of data from websites. Information including product specifics, costs, ratings, news stories, information from social media, weather information, and more can be extracted. For research, market analysis, corporate intelligence, or data-driven decision making, this data can be processed, analyzed, and utilised. <br>
+1. Data gathering and analysis: Web scraping enables you to swiftly acquire enormous amounts of data from websites. Information including product specifics, costs, ratings, news stories, information from social media, weather information, and more can be extracted. For research, market analysis, corporate intelligence, or data-driven decision making, this data can be processed, analyzed, and utilised.<br>
 
-2.Competitor monitoring: Web scraping can be used to keep tabs on the websites of your rivals to learn more about their goods, costs, special offers, and other marketing tactics. To stay competitive in the market, you may want to modify your own pricing, marketing, and product development plans using this knowledge. <br>
+2. Competitor monitoring: Web scraping can be used to keep tabs on the websites of your rivals to learn more about their goods, costs, special offers, and other marketing tactics. To stay competitive in the market, you may want to modify your own pricing, marketing, and product development plans using this knowledge. <br>
 
 3. Market Research and Sentiment Analysis: Web scraping can be used to gather information from social media platforms, forums, review websites, and consumer feedback portals for market research and sentiment analysis. This information can be used to gain understanding of consumer trends, sentiment analysis, public opinion, and brand reputation management.<br>
 
