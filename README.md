@@ -3,9 +3,9 @@ Some of the data such as company details and other information was collected by 
 
 <strong>Installations:</strong> <br>
 ```pip install pandas``` <br>
-```pip install python```
-```pip install beautifulsoup4```
-```pip install requests```
+```pip install python``` <br>
+```pip install beautifulsoup4```<br>
+```pip install requests```<br>
 
 <strong>For API:</strong> <br>
 ```pip install djangorestframework```
